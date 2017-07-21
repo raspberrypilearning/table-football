@@ -4,7 +4,7 @@ We can’t play a game of football with just one player! We need to add some mor
 
 
 
-+ Create another sprite using the `Upload sprite from file` button and selecting **resources/goalie_red.png**.
++ Create another sprite using the `Upload sprite from file` button and selecting **goalie_red.png**.
 + Change the name of the sprite to **red goalie**.
 + Drag the sprite on the stage to the right-hand side just in front of the goal.
 + Like before, grow the sprite 10 times so it is as big as the other goalie.
