@@ -14,7 +14,7 @@
   This is like goal line technology - it runs all the time, checking whether the ball is touching the goal, and broadcasting a message when it is.
 + Drag the script to **blue goal** to copy it there as well.
 + Now we need to do something when **goal** is broadcast. Click `Upload sprite from file`.
-+ Select **resources/goal_text.png**, and rename the sprite **goal text**.
++ Select **goal_text.png**, and rename the sprite **goal text**.
 + Add this script to **goal text**:
 ```blocks
     when I receive [goal v] // goal scored
@@ -48,5 +48,5 @@ You might notice sometimes the ball gets stuck bouncing where the players can’
 
 ## Challenge 3: Referee’s whistle
 
-Can you add the sound effect **resources/whistle.mp3** so that the whistle sounds whenever a kick-off takes place?
+Can you add the sound effect **whistle.mp3** so that the whistle sounds whenever a kick-off takes place?
 
