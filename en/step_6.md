@@ -5,7 +5,7 @@ Our game of _football_ has **feet**, but no **ball!** Let’s fix that.
 
 
 + Click `Upload sprite from file`
-+ Select **resources/ball.png**, and rename the sprite **ball**.
++ Select **ball.png**, and rename the sprite **ball**.
 + In the `Scripts` tab for the ball, add the following:
 ```blocks
     when FLAG clicked // bounce about

@@ -4,7 +4,7 @@ Okay – our pitch is looking good! Now let’s add some players and get them mo
 
 
 
-+ Click on `Upload sprite from file` and choose **resources/goalie_blue.png**. Rename the sprite **blue goalie**, and drag it near to the left goal.
++ Click on `Upload sprite from file` and choose **goalie_blue.png**. Rename the sprite **blue goalie**, and drag it near to the left goal.
 + Click on the `grow sprite` button, and click on the **blue goalie** sprite 10 times to scale up the sprite.
 + Click on the `Scripts` tab, and add:
 ```blocks

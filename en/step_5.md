@@ -2,7 +2,7 @@
 
 
 
-+ Create another sprite using the `Upload sprite from file` button and selecting **resources/attack_blue.png**. Rename the sprite **blue attack**.
++ Create another sprite using the `Upload sprite from file` button and selecting **attack_blue.png**. Rename the sprite **blue attack**.
 + As before, grow the sprite 10 times, so the players are as big as the goalies.
 + Move the sprite into the right-hand side of the pitch, so they are attacking the red team’s goal.
 + Drag the script from **blue goalie** to **blue attack**, and modify it to match this:
@@ -19,7 +19,7 @@
     end
 ```
   You should only have to change three things: the `x position`, and which keys are pressed.
-+ Create one more sprite using the `Upload sprite from file` button and selecting **resources/attack_red.png**. Rename the sprite to **red attack**.
++ Create one more sprite using the `Upload sprite from file` button and selecting **attack_red.png**. Rename the sprite to **red attack**.
 + As before, grow the sprite 10 times, so all the players on the pitch are the same size.
 + Move the sprite into the left-hand side of the pitch, so they are attacking the blue team’s goal.
 + Drag the script from **blue attack** to **red attack**, and modify it to match this:
