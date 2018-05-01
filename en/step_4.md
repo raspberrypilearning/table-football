@@ -22,7 +22,7 @@ We can’t play a game of football with just one player! We need to add some mor
         end
     end
 ```
-  You should only have to change three things: the `x position`, and which keys are pressed.
+  You should only have to change three things: the `y position`, and which keys are pressed.
 
 ## Test your project
 
