@@ -16,12 +16,14 @@ hardware: ''
 software: scratch
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: Get the pitch ready for a game
 - title: Add a goalie
 - title: Add some more players
 - title: Add some attacking players
 - title: Add a bouncing ball
 - title: Kicking the ball
+  completion: internal
 - title: GOOOOOOAAAAAALLLLLLLLL!!!!!!!!
